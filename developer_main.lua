@@ -242,10 +242,10 @@ end
 
 -- Reihenfolge
 attachTab("Info",        TABS.Info,       "info")
-attachTab("Vehicle Mod", TABS.VehicleMod, "main")
-attachTab("Aimbot",      TABS.Aimbot,     "main")
-attachTab("ESPs",        TABS.ESPs,       "main")
-attachTab("Graphics",    TABS.Graphics,   "main")
+attachTab("Vehicle Mod", TABS.VehicleMod, "vehicle")
+attachTab("Aimbot",      TABS.Aimbot,     "aimbot")
+attachTab("ESPs",        TABS.ESPs,       "esp")
+attachTab("Graphics",    TABS.Graphics,   "graphics")
 attachTab("Player",      TABS.Player,     "main")
 attachTab("Bypass",      TABS.Bypass,     "main")
 attachTab("Misc",        TABS.Misc,       "main")
